@@ -1,6 +1,6 @@
 ![Header Banner](banner.png)
 
-# 👋 Hi, I'm Martin Kamau Ngonya
+# 👋 Hi, I'm Martin Kamau.
 
 🎓 **Computer Science Student | Full-Stack & Mobile Developer | AI & Startup Innovator**
 
