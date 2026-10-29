@@ -9,7 +9,7 @@ I build backend systems and practical software, and I'm interested in using AI t
 
 ---
 
-## 🎓 Background
+##  Background
 
 - BSc Computer Science, **Kisii University**
 - Hands-on experience across software development, banking systems, and network infrastructure
