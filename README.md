@@ -18,7 +18,7 @@ I build backend systems and practical software, and I'm interested in using AI t
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### IT Attaché, Office of the Prime Cabinet Secretariat (OCPS)
 Worked on an **IT Incident Reporting System** built with **Next.js** and **Django**.
@@ -36,7 +36,7 @@ Worked on an **IT Incident Reporting System** built with **Next.js** and **Djang
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -61,7 +61,7 @@ Worked on an **IT Incident Reporting System** built with **Next.js** and **Djang
 
 ---
 
-## 🚀 Focus Areas
+##  Focus Areas
 
 **AI for Financial Empowerment**
 Exploring AI tools that make financial education more accessible: budgeting, saving, debt management, scam awareness, expense tracking, and small-business planning.
