@@ -1,4 +1,4 @@
-# Hi, I'm Martin Kamau Ngonya 👋
+# Hi, I'm Martin Kamau Ngonya 
 
 **Computer Science student · Software Developer · AI & Fintech enthusiast**
 
